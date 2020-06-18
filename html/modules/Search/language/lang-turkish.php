@@ -1,0 +1,58 @@
+<?php
+
+/**************************************************************************/
+/* PHP-NUKE: Advanced Content Management System                           */
+/* ============================================                           */
+/*                                                                        */
+/* This is the language module with all the system messages               */
+/*                                                                        */
+/* If you made a translation, please sent to me (fbc@mandrakesoft.com)    */
+/* the translated file. Please keep the original text order by modules,   */
+/* and just one message per line, also double check your translation!     */
+/*                                                                        */
+/* You need to change the second quoted phrase, not the capital one!      */
+/*                                                                        */
+/* If you need to use double quotes (") remember to add a backslash (\),  */
+/* so your entry will look like: This is \"double quoted\" text.          */
+/* And, if you use HTML code, please double check it.                     */
+/**************************************************************************/
+
+define("_ALLTOPICS","Tüm Konular");
+define("_NOCOMMENTS","Yorum Yok");
+define("_UCOMMENT","Yorum");
+define("_REVIEWS","Ýzlenimler");
+define("_SEARCHUSERS","Kullanýcý Veritabanýnda Ara");
+define("_SEARCHSECTIONS","Özel Bölümlerde Ara");
+define("_SEARCHREVIEWS","Ýzlenimlerde Ara");
+define("_SEARCHIN","Ara:");
+define("_ARTICLES","Haber");
+define("_ALLAUTHORS","Tüm Yazarlar");
+define("_ALL","Tümü");
+define("_WEEK","hafta");
+define("_WEEKS","hafta");
+define("_MONTH","ay");
+define("_MONTHS","ay");
+define("_SEARCHON","Ara:");
+define("_SSTORIES","Haber");
+define("_SSECTIONS","Bölümler");
+define("_SUSERS","Kullanýcýlar");
+define("_NOMATCHES","Uygun sonuç bulunamadý");
+define("_PREVMATCHES","önceki sonuçlar");
+define("_NEXTMATCHES","sonraki sonuçlar");
+define("_INSECTION","Makale Bulunuyor");
+define("_NONAME","Ýsim girilmemiþ");
+define("_SCOMMENTS","Yorum");
+define("_SEARCHRESULTS","Arama Sonuçlarý");
+define("_CONTRIBUTEDBY","Katkýda bulunan");
+define("_UCOMMENTS","Yorum");
+define("_MATCHTITLE","Baþlýk");
+define("_MATCHTEXT","Haber Metni");
+define("_MATCHBOTH","Baþlýk ve Haber Metni");
+define("_SREPLY","Cevap");
+define("_SREPLIES","Cevap");
+define("_ATTACHART","Habere Eklenmiþ");
+define("_PAGES","Sayfa");
+define("_REVIEWSCORE","Ýzlenim Puaný");
+define("_PAGE","Sayfa");
+
+?>

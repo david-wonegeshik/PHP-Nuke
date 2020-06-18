@@ -1,0 +1,36 @@
+<?php
+
+/**************************************************************************/
+/* PHP-NUKE: Advanced Content Management System                           */
+/* ============================================                           */
+/*                                                                        */
+/* This is the language module with all the system messages               */
+/*                                                                        */
+/* If you made a translation, please sent to me (fbc@mandrakesoft.com)    */
+/* the translated file. Please keep the original text order by modules,   */
+/* and just one message per line, also double check your translation!     */
+/*                                                                        */
+/* You need to change the second quoted phrase, not the capital one!      */
+/*                                                                        */
+/* If you need to use double quotes (") remember to add a backslash (\),  */
+/* so your entry will look like: This is \"double quoted\" text.          */
+/* And, if you use HTML code, please double check it.                     */
+/**************************************************************************/
+
+define("_SEND","Send");
+define("_FYOURNAME","Dit navn:");
+define("_FYOUREMAIL","Din e-mailadresse:");
+define("_FFRIENDNAME","Din vens navn:");
+define("_FFRIENDEMAIL","Din vens e-mailadresse:");
+define("_HELLO","Hej");
+define("_YOURFRIEND","Din ven");
+define("_RECOMMEND","Tip en ven om dette website.");
+define("_INTSITE","Interessant website:");
+define("_OURSITE","fandt vores website");
+define("_INTSENT","interessant og ønskede at sende dette til dig.");
+define("_FSITENAME","Navn på websitet:");
+define("_FSITEURL","Websitetets internetadresse:");
+define("_FREFERENCE","Henvisningen til vores website er blevet sendt til");
+define("_THANKSREC","Tak fordi du anbefalede os!");
+
+?>

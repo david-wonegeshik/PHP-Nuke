@@ -1,0 +1,40 @@
+<?php
+
+/**************************************************************************/
+/* PHP-NUKE: Advanced Content Management System                           */
+/* ============================================                           */
+/*                                                                        */
+/* This is the language module with all the system messages               */
+/*                                                                        */
+/* If you made a translation, please sent to me (fbc@mandrakesoft.com)    */
+/* the translated file. Please keep the original text order by modules,   */
+/* and just one message per line, also double check your translation!     */
+/*                                                                        */
+/* You need to change the second quoted phrase, not the capital one!      */
+/*                                                                        */
+/* If you need to use double quotes (") remember to add a backslash (\),  */
+/* so your entry will look like: This is \"double quoted\" text.          */
+/* And, if you use HTML code, please double check it.                     */
+/**************************************************************************/
+
+define("_CATEGORY","Kategoria");
+define("_LVOTES","G³osów");
+define("_HITS","Ods³on");
+define("_TOPWELCOME","Witaj na stronie TOP w");
+define("_READSTORIES","najczê¶ciej czytanych artyku³ów");
+define("_COMMENTEDSTORIES","najczê¶ciej komentowanych artyku³ów");
+define("_ACTIVECAT","najbardziej aktywnych kategorii");
+define("_READSECTION","najczê¶ciej czytanych artyku³ów w sekcji specjalnej");
+define("_NEWSSUBMITTERS","najbardziej aktywnych dostarczycieli newsów");
+define("_NEWSSENT","wys³anych newsów");
+define("_VOTEDPOLLS","ankiet w których g³osowano najczê¶ciej");
+define("_MOSTACTIVEAUTHORS","najaktywniejszych autorów");
+define("_NEWSPUBLISHED","opublikowanych newsów");
+define("_READREVIEWS","najczê¶ciej czytanych recenzji");
+define("_DOWNLOADEDFILES","najczê¶ciej ¶ci±ganych plików");
+define("_MOSTREADPAGES","Najczê¶ciej czytane strony");
+define("_MOSTVOTEDSTORIES","most voted stories");
+define("_POINTS","points");
+define("_BESTRATEDSTORIES","best rated stories (based on 5 maximun points)");
+
+?>
